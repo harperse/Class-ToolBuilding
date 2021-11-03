@@ -14,5 +14,3 @@ else {
     Write-Host "$($service.Name) is NOT Running" -BackgroundColor Red
 }
 }
-
-ServiceStuff
